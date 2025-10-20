@@ -46,5 +46,27 @@ people.com:8443#优选
 www.ilovepdf.com:8443#优选
 www.ikea.com:8443#优选
 www.shopify.com:8443#优选
+bestcf.030101.xyz#Mingyu维护
+cdn.2020111.xyz#优选
+cdns.doon.eu.org#优选
+cf.0sm.com#优选
+cf.877771.xyz#优选
+cf.877774.xyz#秋名山维护
+cf.900501.xyz#优选
+cfip.1323123.xyz#优选
+cfip.cfcdn.vip#优选
+cfip.xxxxxxxx.tk#OTC维护
+cloudflare.182682.xyz#WeTest.Vip维护
+cloudflare-dl.byoip.top#优选
+cloudflare-ip.mofashi.ltd#优选
+fn.130519.xyz#优选
+freeyx.cloudflare88.eu.org#优选
+nrt.xxxxxxxx.nyc.mn#优选
+nrtcfdns.zone.id#优选
+saas.sin.fan#优选
+tencentapp.cn#ktff维护#优选
+xn--b6gac.eu.org#优选
+777.ai7777777.xy#优选
+
 
 
